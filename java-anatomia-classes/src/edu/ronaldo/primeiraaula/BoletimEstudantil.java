@@ -1,7 +1,7 @@
 package edu.ronaldo.primeiraaula;
 // com identação
 
-public class BoletimEstudantil {
+/*public class BoletimEstudantil {
     public static void main(String[] args) {
         int mediaFinal = 7;
         if (mediaFinal < 6) {
@@ -12,11 +12,11 @@ public class BoletimEstudantil {
             System.out.println("APROVADO");
         }
     }
-} 
+} */
 
 // sem identação
 
-/*public class BoletimEstudantil {
+public class BoletimEstudantil {
 public static void main(String[] args) {
 int mediaFinal = 1;
 if (mediaFinal < 6) {
@@ -27,4 +27,4 @@ System.out.println("PROVA MINERVA");
 System.out.println("APROVADO");
 }
 }
-}*/
+}
