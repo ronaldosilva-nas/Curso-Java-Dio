@@ -3,7 +3,7 @@ public class ResultadoEscolar {
         
         //controle de fluxo composto
 
-        int nota = 8;
+        int nota = 5;
 
         if(nota >= 7)
         System.out.println("Aprovado");
