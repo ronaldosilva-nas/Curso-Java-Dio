@@ -9,8 +9,8 @@ public class ExemploWhile {
         while (mesada > 0) {
             Double valorDoce = valorAleatorio();
             
-            //if (valorDoce > mesada)
-            //valorDoce = mesada;
+            if (valorDoce > mesada)
+            valorDoce = mesada;
             
             System.out.println("Valor do doce: " + valorDoce + " - Adicionado no carrinho");
             mesada = mesada - valorDoce;
